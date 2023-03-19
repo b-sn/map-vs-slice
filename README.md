@@ -34,7 +34,7 @@ Avg performance:
 - `BenchmarkMap-4`: **1832/s**
 - `BenchmarkSlice-4`: **29130/s**
 
-Map is **1503%** (15 times) slower than slice **1503%**
+Map is **1490%** (15 times) slower than slice
 
 Comparison with [benchstat](https://pkg.go.dev/golang.org/x/perf/cmd/benchstat) on more runs:
 
