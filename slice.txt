@@ -1,0 +1,16 @@
+goos: linux
+goarch: amd64
+pkg: maptests
+cpu: Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz
+BenchmarkMapSlice-4   	   34932	     33515 ns/op	    1050 B/op	       2 allocs/op
+BenchmarkMapSlice-4   	   34879	     35041 ns/op	    1050 B/op	       2 allocs/op
+BenchmarkMapSlice-4   	   32790	     35132 ns/op	    1050 B/op	       2 allocs/op
+BenchmarkMapSlice-4   	   34706	     33701 ns/op	    1050 B/op	       2 allocs/op
+BenchmarkMapSlice-4   	   34849	     33794 ns/op	    1050 B/op	       2 allocs/op
+BenchmarkMapSlice-4   	   34786	     34264 ns/op	    1050 B/op	       2 allocs/op
+BenchmarkMapSlice-4   	   34951	     34029 ns/op	    1050 B/op	       2 allocs/op
+BenchmarkMapSlice-4   	   35359	     33894 ns/op	    1050 B/op	       2 allocs/op
+BenchmarkMapSlice-4   	   35545	     33691 ns/op	    1050 B/op	       2 allocs/op
+BenchmarkMapSlice-4   	   35654	     34447 ns/op	    1050 B/op	       2 allocs/op
+PASS
+ok  	maptests	15.446s
